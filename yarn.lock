@@ -68,14 +68,9 @@
   "resolved" "https://registry.npmjs.org/@next/env/-/env-13.3.4.tgz"
   "version" "13.3.4"
 
-"@next/swc-linux-x64-gnu@13.3.4":
-  "integrity" "sha512-xU+ugaupGA4SL5aK1ZYEqVHrW3TPOhxVcpaJLfpANm2443J4GfxCmOacu9XcSgy5c51Mq7C9uZ1LODKHfZosRQ=="
-  "resolved" "https://registry.npmjs.org/@next/swc-linux-x64-gnu/-/swc-linux-x64-gnu-13.3.4.tgz"
-  "version" "13.3.4"
-
-"@next/swc-linux-x64-musl@13.3.4":
-  "integrity" "sha512-cZvmf5KcYeTfIK6bCypfmxGUjme53Ep7hx94JJtGrYgCA1VwEuYdh+KouubJaQCH3aqnNE7+zGnVEupEKfoaaA=="
-  "resolved" "https://registry.npmjs.org/@next/swc-linux-x64-musl/-/swc-linux-x64-musl-13.3.4.tgz"
+"@next/swc-darwin-arm64@13.3.4":
+  "integrity" "sha512-vux7RWfzxy1lD21CMwZsy9Ej+0+LZdIIj1gEhVmzOQqQZ5N56h8JamrjIVCfDL+Lpj8KwOmFZbPHE8qaYnL2pg=="
+  "resolved" "https://registry.npmjs.org/@next/swc-darwin-arm64/-/swc-darwin-arm64-13.3.4.tgz"
   "version" "13.3.4"
 
 "@swc/helpers@0.5.1":
